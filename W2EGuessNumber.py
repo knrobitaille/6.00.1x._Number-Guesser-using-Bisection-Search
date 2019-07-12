@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
 Created on Fri Jun 21 10:04:20 2019
 
-@author: u733870
+@author: KR
 """
 
 
@@ -33,5 +32,4 @@ while not guessed:
              guessed == True
              break
     ans = int(float((high + low) / 2))
-    
-#doesnt work when "correct" is typed
+  
